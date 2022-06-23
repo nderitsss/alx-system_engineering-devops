@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 554 /tmp/h$/hello
+chmod 554 /h$/hello
